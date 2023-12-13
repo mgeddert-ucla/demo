@@ -7,6 +7,4 @@ And it supports lists
 - List 3
 - List 4
 
-And it supports **bold** like on Reddit or Discord.
-
-This is from my fork.
+And it supports **bold** like on Reddit or Discord.  And in iA Writer.
